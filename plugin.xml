@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Robostat</lang>
+	</name>
+	<author>
+		<lang name="default">Alexei Lukin</lang>
+	</author>
+	<homepage>http://imthinker.ru/plugin-robostat/</homepage>
+	<version>0.5.3</version>
+	<requires>
+		<livestreet>0.4.2</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Collects and shows statistic of robots visiting site, such as Google, Yandex, etc</lang>
+		<lang name="russian">Собирает и выводит информацию о различных роботах, посещающих сайт. Таких, как роботы yandex, google и т.п.</lang>
+	</description>
+
+</plugin>

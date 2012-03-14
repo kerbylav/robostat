@@ -1,0 +1,7 @@
+.table a { color: #333; }
+.table a:hover { color: #666; }
+
+.table { width: 100%; margin-bottom: 10px; cellspacing: 0px; border-collapse: collapse;}
+.table thead td { background: #9a9a9a; }
+.table td { border: 1px solid #ddd; padding: 5px; }
+
