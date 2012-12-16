@@ -42,11 +42,11 @@ $config['robots']=array(
 	'name'=>'Alexa',
 	'agents'=>array('ia_archiver')
 		),
-/*		7=>
+		7=>
 		array(
 	'name'=>'Test',
-	'agents'=>array('trident/4.0')
-		),*/
+	'agents'=>array('chrome')
+		),
 		);
 
 Config::Set('router.page.robostat', 'PluginRobostat_ActionRobostat');
