@@ -9,7 +9,7 @@
 	<homepage>http://kerbystudio.ru</homepage>
 	<version>1.0.1</version>
 	<requires>
-		<livestreet>0.4.2</livestreet>
+		<livestreet>1.0.1</livestreet>
 		<plugins>
 		</plugins>
 	</requires>
