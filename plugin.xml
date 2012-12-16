@@ -4,10 +4,10 @@
 		<lang name="default">Robostat</lang>
 	</name>
 	<author>
-		<lang name="default">Alexei Lukin</lang>
+		<lang name="default">Alexei Lukin aka Kerby</lang>
 	</author>
-	<homepage>http://imthinker.ru/plugin-robostat/</homepage>
-	<version>0.5.3</version>
+	<homepage>http://kerbystudio.ru</homepage>
+	<version>1.0.1</version>
 	<requires>
 		<livestreet>0.4.2</livestreet>
 		<plugins>
